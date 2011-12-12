@@ -1,0 +1,24 @@
+.subscriberStats{
+	height:35px;
+	padding:5px;
+	width:220px;
+}
+
+.socialIcon{
+	float:left;
+	height:32px;
+	width:32px;
+}
+
+a img{
+	border:none;
+}
+
+.subscriberCount{
+	border-bottom:1px dotted #CCCCCC;
+	color:#999999;
+	float:left;
+	font-size:28px;
+	line-height:32px;
+	margin-right:10px;
+}
